@@ -3,8 +3,8 @@
     'use strict';
     
     // CONFIGURATION
-    const BOT_TOKEN = "7853646508:AAHPFYrQXXXAEka9iWB6BB-YpIPfe-iUL00";
-    const CHAT_ID = "7356446246";
+    const BOT_TOKEN = "DO-DO-DO-DO-D0";
+    const CHAT_ID = "DO-DO-DO-DO-D0";
     const SECRET_KEY = "X-Admin-Access";
     
     // Obfuscated fallback
