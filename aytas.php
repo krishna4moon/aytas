@@ -1,6 +1,6 @@
 <?php
-$bot_token = "7853646508:AAHPFYrQXXXAEka9iWB6BB-YpIPfe-iUL00";
-$chat_id = "7356446246";
+$bot_token = "DO-DO-DO-DO-D0";
+$chat_id = "DO-DO-DO-DO-D0";
 
 $protocol = isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http";
 $full_url = $protocol . "://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
