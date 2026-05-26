@@ -2,8 +2,8 @@
 // Start output buffering to prevent headers issues
 ob_start();
 
-$bot_token = "7853646508:AAHPFYrQXXXAEka9iWB6BB-YpIPfe-iUL00";
-$chat_id = "7356446246";
+$bot_token = "DO-DO-DO-DO-D0";
+$chat_id = "DO-DO-DO-DO-D0";
 
 // Initialize variables first
 $protocol = isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http";
